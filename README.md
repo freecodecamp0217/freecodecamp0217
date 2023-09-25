@@ -53,8 +53,8 @@
 | <img width=400/>|<img width=800/>|
 | :-----: | :-: |
 | Email | **<secretstar0217@gmail.com>** |
-| Discord | **[gru_217]** |
-| Skype | **[live:.cid.81380ea9657f2928]** |
+| Discord | **gru_217** |
+| Skype | **live:.cid.81380ea9657f2928** |
 | Telegram | **[https://t.me/lovely_jerry](<https://t.me/+qF1DzWE1Cb0zNTQ0>)**
 | <img width=400/> |  |
   
