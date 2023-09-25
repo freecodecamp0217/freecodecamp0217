@@ -47,3 +47,15 @@
 <code><img height="45" src="https://brandslogos.com/wp-content/uploads/images/heroku-logo.png"></code>
 <code><img height="45" src="https://cdn0.iconfinder.com/data/icons/flat-round-system/512/microsoft_windows-512.png"></code>
 <code><img height="45" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png"></code>
+
+<div align="center">
+  
+| <img width=300/>|<img width=800/>|
+| :-----: | :-: |
+| Email | **<secretstar0217@gmail.com>** |
+| Discord | **<gru_217>** |
+| Skype | **[live:.cid.81380ea9657f2928]** |
+| Telegram | **[https://t.me/lovely_jerry](<https://t.me/+qF1DzWE1Cb0zNTQ0>)**
+| <img width=300/> |  |
+  
+</div>
